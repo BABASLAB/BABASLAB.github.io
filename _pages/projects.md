@@ -4,12 +4,6 @@ layout: default
 
 # Check our [Github](https://github.com/BotolMehedi)
 - ## [HOME](/)
----
-layout: default
----
-
-# Check our [Github](https://github.com/BotolMehedi)
-- ## [HOME](/)
 - #### [SMV FOLLOWER](https://play.google.com/store/apps/details?id=com.babaslab.smvfollower) - [_Download_](https://babaslab.github.io/downloads)
 
 *   Initial Release!
