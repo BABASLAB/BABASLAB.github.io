@@ -1,0 +1,55 @@
+title: BabasLab
+author: Mehedi Hasan Aroyan
+description: The official website of BabasLab. Browse our projects and download crazy stuffs from here.
+google_analytics: G-6149J19BS
+google_site_verification_content: 
+disqus_forum_shortname:
+
+#Usernames and badges
+htb_badge_no:
+thm_badge_no:
+show_thm_htb_badges_in_nav: false
+github_username: BabasLab
+gitlab:
+medium:
+stackoverflow:
+hacker_news:
+linkedin:
+twitch:
+youtube: 
+twitter:
+facebook: groups/TeamVVirus
+instagram:
+reddit:
+pinterest:
+telegram: TheBotolBaba
+steam:
+
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
+exclude: [
+   /*/*/_problems/*,
+   scripts
+]
+plugins:
+   # - jekyll-seo-tag
+   - jemoji
+   - jekyll-sitemap
+   - jekyll-github-metadata
+collections:
+   pages:
+      output: true
+      permalink: /:name
+   tutorials:
+      output: true
+   downloads:
+      output: true
+   projects:
+      output: true
+   terms-and-conditions:
+      output: true
+   privacy-policy:
+      output: true
+theme: jekyll-theme-cayman
